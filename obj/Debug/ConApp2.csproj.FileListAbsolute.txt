@@ -1,0 +1,8 @@
+D:\ConApp2\ConApp2\bin\Debug\ConApp2.exe.config
+D:\ConApp2\ConApp2\bin\Debug\ConApp2.exe
+D:\ConApp2\ConApp2\bin\Debug\ConApp2.pdb
+D:\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.AssemblyReference.cache
+D:\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.SuggestedBindingRedirects.cache
+D:\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.CoreCompileInputs.cache
+D:\ConApp2\ConApp2\obj\Debug\ConApp2.exe
+D:\ConApp2\ConApp2\obj\Debug\ConApp2.pdb
